@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-anandknijogit1995/anandknijogit1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+anandknijogit1995/Anand-Kumar-Nirala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
